@@ -15,4 +15,4 @@ WHEN prompted for the developer's GitHub username and favorite color
 
 THEN the PDF/HTML profiles are generated.
 
-Click link foe demo: <iframe src="https://drive.google.com/file/d/1Hj0kqwR5i5mpyZj_6GHzEnkRUnNmHJFw/preview" width="640" height="480"></iframe>
+[![Watch the video] (gif.png)<iframe src="https://drive.google.com/file/d/1Hj0kqwR5i5mpyZj_6GHzEnkRUnNmHJFw/preview" width="640" height="480"></iframe>
